@@ -17,7 +17,7 @@ Data Cleaning and Preparation - Hints
 1.	Identify the data quality issues and clean the data so that you can use it for analysis.
 2.	Ensure that the dates and time are in the proper format. Derive new variables which will be useful for analysis.
  
-Results Expected
+<b>Results Expected</b>
 1.	Visually identify the most pressing problems for Uber. 
 o	Hint: Create plots to visualise the frequency of requests that get cancelled or show 'no cars available'; identify the most problematic types of requests (city to airport / airport to city etc.) and the time slots (early mornings, late evenings etc.) using plots
 2.	Find out the gap between supply and demand and show the same using plots.
