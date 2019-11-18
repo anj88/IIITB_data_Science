@@ -1,4 +1,4 @@
-<b>Business Problem,/B>
+<b>Business Problem</b>
   
 Business understanding:
 
